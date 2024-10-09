@@ -1,4 +1,4 @@
-## Olá mundo, Kaique Bifulgo aqui!
+## Hello World, Kaique Bifulgo aqui!
 
 - 🔭 Front-end
 
