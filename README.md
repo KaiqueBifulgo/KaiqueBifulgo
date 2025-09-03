@@ -1,6 +1,6 @@
 # Hello World!
 
-- Front-end developer
+- Front-end developer.
 
 <a href="https://github.com/KaiqueBifulgo/github-readme-stats">
   <img height=200 width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueBifulgo&show_icons=true&theme=transparent" />
