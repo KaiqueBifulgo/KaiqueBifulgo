@@ -3,7 +3,7 @@
 - Front-end developer;
 
 <a href="https://github.com/KaiqueBifulgo/github-readme-stats">
-  <img height=210 width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueBifulgo&show_icons=true&theme=transparent" />
+  <img height=210 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=KaiqueBifulgo&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/KaiqueBifulgo/convoychat">
   <img width=270 heigth=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBifulgo&layout=donut-vertical&theme=transparent&https://github.com/KaiqueBifulgo/github-readme-stats" />
